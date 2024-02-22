@@ -3,9 +3,9 @@ Proje'nin demo dosyası yüklenmiştir. Projede gösteri, seans ve salon ekleyeb
 
 ## Projeye Ait Bazı Görüntüler
 
-![image](https://github.com/furkan-karapinar/TiyatroOtomasyonu/assets/159263067/5c815595-8fee-40c6-86e7-7709cb58b6ea)
-![image](https://github.com/furkan-karapinar/TiyatroOtomasyonu/assets/159263067/a44f3298-e337-4ab0-9be0-bc2881c3c4d3)
-![image](https://github.com/furkan-karapinar/TiyatroOtomasyonu/assets/159263067/0fec7545-9f1c-4b12-bb75-c71f15a193c8)
-![image](https://github.com/furkan-karapinar/TiyatroOtomasyonu/assets/159263067/d4d53480-cbd8-4c8e-bf87-112ea8b4eef3)
-![image](https://github.com/furkan-karapinar/TiyatroOtomasyonu/assets/159263067/5b6d9f20-45b5-44ee-a746-3e1a2e47107d)
-![image](https://github.com/furkan-karapinar/TiyatroOtomasyonu/assets/159263067/782edc3c-cd9e-4397-9fd8-5c7ed4779cc4)
+![image](https://github.com/furkan-karapinar/TiyatroOtomasyonu/assets/159263067/c0c38ab8-44c3-4516-92a1-917d82971be4)
+![image](https://github.com/furkan-karapinar/TiyatroOtomasyonu/assets/159263067/4611c1bd-6f41-47a3-8be8-31e876796673)
+![image](https://github.com/furkan-karapinar/TiyatroOtomasyonu/assets/159263067/9ecb4ce3-fe8a-4515-ab1e-beb96cfd298e)
+![image](https://github.com/furkan-karapinar/TiyatroOtomasyonu/assets/159263067/0a8878b9-3909-4fc0-9a9e-43369471024f)
+![image](https://github.com/furkan-karapinar/TiyatroOtomasyonu/assets/159263067/1f97f25e-1d5b-47bb-9e57-16d1292b347e)
+![image](https://github.com/furkan-karapinar/TiyatroOtomasyonu/assets/159263067/42e1923e-7163-4cc2-9ddb-51b352054a82)
